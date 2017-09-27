@@ -8,7 +8,8 @@
 * [Home-made k-NN model](https://github.com/DarquesM/Machine-Learning/blob/master/k-NN.ipynb)
 
 * [Multiple models with scikit-learn](https://github.com/DarquesM/Machine-Learning/blob/master/Titanic-Multi-model.py) 
-This model combines algorithms such as : RandomForestClassifier, AdaBoosClassifier, DecisionTreeClassifier, SVM, KNN. For the final prediction EnsembleVotingClassifier is used.
+
+This model combines algorithms such as : RandomForestClassifier, AdaBoosClassifier, DecisionTreeClassifier, SVM, KNN. For the final prediction EnsembleVotingClassifier is used. Best score is **0.79904**
 
 
 
