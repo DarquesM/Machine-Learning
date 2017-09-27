@@ -11,6 +11,8 @@
 
 This model combines algorithms such as : RandomForestClassifier, AdaBoosClassifier, DecisionTreeClassifier, SVM, KNN. For the final prediction EnsembleVotingClassifier is used. Best score is **0.79904**
 
+## Kaggle's House price competition:
+
 
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
