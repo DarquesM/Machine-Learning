@@ -13,6 +13,9 @@ This model combines algorithms such as : RandomForestClassifier, AdaBoosClassifi
 
 ## Kaggle's House price competition:
 
+* [Jupyter notebook, multiple models with scikit-learn](https://github.com/DarquesM/Machine-Learning/blob/master/HousePrice-Notebook_for_kaggle.ipynb)
+
+This model combines several regression techniques LASSO, Elastic Net, Gradient Boosting, AdaBoost, XGBoost. Best score is **~ 0.1250**
 
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
