@@ -1,5 +1,8 @@
 # Welcome to my machine-learning repo
 
+## Kaggle's Porto Seguro safe driver competition:
+* [Simple Logit model]()
+
 ## Kaggle's Titanic competition:
 * [Random forest using GraphLab](https://github.com/DarquesM/Machine-Learning/blob/master/Random-forest.ipynb)
 
