@@ -17,5 +17,8 @@ This model combines algorithms such as : RandomForestClassifier, AdaBoosClassifi
 
 This model combines several regression techniques LASSO, Elastic Net, Gradient Boosting, AdaBoost, XGBoost. Best score is **~ 0.1250**
 
+* [Using MLBox](https://github.com/DarquesM/Machine-Learning/blob/master/HousePrices-MLBox.py)
+
+[MLBox](https://github.com/AxeldeRomblay/MLBox) is python automated machine-learning library, written by Axel de Romblay
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
