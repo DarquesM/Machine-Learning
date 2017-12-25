@@ -1,10 +1,12 @@
 # Welcome to my machine-learning repo
 
 ## Kaggle's Porto Seguro safe driver competition:
-* [Simple Logit model](https://github.com/DarquesM/Machine-Learning/blob/master/Porto%20Seguro/Sklearn.py)
+* [Complete model](https://github.com/DarquesM/Machine-Learning/blob/master/Kaggle/Porto%20Seguro/ExtraTress_PCA_DNN_Logit.py)
+
+Solution to this classification problem using different techniques : logistic regression, XGBoost classifier and DNN (tensorflow). Features selection is performed with ExtraTreesClassifier, and PCA can be used if the data is binarized (leading to too many features).
 
 ## Kaggle's Titanic competition:
-* [Random forest using GraphLab](https://github.com/DarquesM/Machine-Learning/blob/master/Random-forest.ipynb)
+* [Random forest using GraphLab](https://github.com/DarquesM/Machine-Learning/blob/master/Kaggle/Titanic/Random-forest.ipynb)
 
 * [Basic decision tree using GraphLab](https://github.com/DarquesM/Machine-Learning/blob/master/Simple_decision_tree.ipynb)
 
